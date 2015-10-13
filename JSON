@@ -1,0 +1,19 @@
+{
+    "decalSetName": "oltpfinal",
+    "decalSetAuthor": "wolas (Ryanball Edit)",
+    "previewURL": "http://i.imgur.com/fwN2IFb.png",
+     "textures": {
+        "tiles": "http://i.imgur.com/Cz4VCg2.png",
+        "speedpad": "http://i.imgur.com/Z59W6Hs.png",
+        "speedpadred": "http://i.imgur.com/xmqTJt4.png",
+        "speedpadblue": "http://i.imgur.com/JpfpZju.png",
+        "portal": "http://i.imgur.com/VJfWxx5.png",
+        "splats": "http://i.imgur.com/IGMmLF7.png"
+    },
+"maps": [
+        {
+            "name": "IRON",
+            "floorDecalURL": "http://i.imgur.com/j7yJpZx.png"
+        }
+    ]
+}
